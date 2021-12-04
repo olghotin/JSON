@@ -1,7 +1,7 @@
 { 
 	"name": "Olga Vladimirovna Kontush",
 	"age": 34,
-	"pet": null,
+	"pet": 0,
 	"future desired salary": 1000
 }
 
